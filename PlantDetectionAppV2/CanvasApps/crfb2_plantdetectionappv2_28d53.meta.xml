@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>crfb2_plantdetectionappv2_28d53</Name>
+  <AppVersion>2021-08-11T14:40:51Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.21073.27.0</CreatedByClientVersion>
+  <MinClientVersion>3.21073.27.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","sienaVersion":"ea016cf3-b77b-4bb9-aaef-a0ea77adfbc2","deviceCapabilities":"webcam","supportsPortrait":"true","supportsLandscape":"false","primaryFormFactor":"Phone","publisherVersion":"3.21073.27","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"true","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(230, 230, 230, 1)</BackgroundColor>
+  <DisplayName>Plant Detection App V2</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"7e59f5a4-d55d-4f2a-a451-0c526151c3b1":{"id":"/providers/microsoft.powerapps/apis/shared_crfb2-5fplantidv2-5f1f52d76152ee2dc8","displayName":"PlantIdV2","iconUri":"https://pafeblobprodby.blob.core.windows.net/20210811t000000ze9593cddf16841afa146c6deece2228d/customconnectoricon.png?sv=2018-03-28&amp;sr=c&amp;si=SASpolicy&amp;sig=JaXr6p5QZWlZztJbLePRhWJw2emKqJMWXF9U%2BiiHeH4%3D","dataSources":["PlantIdV2"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["Identify"],"customApiLogicalName":"crfb2_5Fplantidv2","isCustomApiSolutionAware":true}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[{"logicalname":"crfb2_5Fplantidv2","componenttype":372,"componenttypeplatformname":"connector"}]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/crfb2_plantdetectionappv2_28d53_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/crfb2_plantdetectionappv2_28d53_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
