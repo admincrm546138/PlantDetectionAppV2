@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ImportExportXml version="9.2.21064.148" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ImportExportXml version="9.2.21073.141" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SolutionManifest>
     <UniqueName>PlantDetectionAppV2</UniqueName>
     <LocalizedNames>
       <LocalizedName description="PlantDetectionAppV2" languagecode="1033" />
     </LocalizedNames>
     <Descriptions />
-    <Version>1.0.0.0</Version>
+    <Version>1.0.0.1</Version>
     <Managed>0</Managed>
     <Publisher>
       <UniqueName>Cr58efb</UniqueName>
@@ -78,6 +78,10 @@
       </Addresses>
     </Publisher>
     <RootComponents>
+      <RootComponent type="29" id="{1258a722-4a04-ec11-94ef-000d3a327c4b}" behavior="0" />
+      <RootComponent type="29" id="{5ebd5da2-cefa-eb11-94ef-000d3a339c86}" behavior="0" />
+      <RootComponent type="29" id="{754dac07-cffa-eb11-94ef-000d3a339c86}" behavior="0" />
+      <RootComponent type="29" id="{e09a06eb-1b04-ec11-94ef-000d3a327c4b}" behavior="0" />
       <RootComponent type="29" id="{fa8f8ea3-b2fa-eb11-94ef-000d3a339c86}" behavior="0" />
       <RootComponent type="300" schemaName="crfb2_plantdetectionappv2_28d53" behavior="0" />
       <RootComponent type="372" id="{f09fa46f-5701-4068-9541-16b98e1ea9da}" schemaName="crfb2_5Fplantidv2" behavior="0" />
